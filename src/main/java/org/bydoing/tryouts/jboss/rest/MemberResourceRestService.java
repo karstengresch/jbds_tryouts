@@ -51,7 +51,7 @@ import org.bydoing.tryouts.jboss.service.MemberRegistration;
  */
 @Path("/members")
 @RequestScoped
-public class MemberResourceRESTService {
+public class MemberResourceRestService {
 
     @Inject
     private Logger log;
